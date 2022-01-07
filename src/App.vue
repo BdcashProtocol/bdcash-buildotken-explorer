@@ -10,7 +10,7 @@
         <b-navbar-item href="/#/">Explorer tokens</b-navbar-item>
         <b-navbar-item v-if="wallet" href="/#/create">Create your token</b-navbar-item>
         <b-navbar-item v-if="wallet" href="/#/manage">Manage your token</b-navbar-item>
-        <b-navbar-item href="#" target="_blank">Docs</b-navbar-item>
+        <b-navbar-item href="https://docs.bdcashprotocol.com/" target="_blank">Docs</b-navbar-item>
       </template>
 
       <template slot="end">

@@ -105,7 +105,7 @@
                 role="alert">
                 You must login with your ID BDCash to create a Sidechain.<br>
                 <a href="/#/login"> 
-                  <b-button size="sm" class="btn-danger my-2 my-sm-0">LOGIN NOW</b-button>
+                  <b-button size="sm" class="btn-warning my-2 my-sm-0">LOGIN NOW</b-button>
                 </a>
             </b-notification>
           </div>
@@ -275,7 +275,7 @@
     padding: 8px;
     right: 10px;
     z-index: 9999;
-    border: 1px solid rgb(218, 188, 19);
+    border: 1px solid rgb(201, 171, 6);
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
   }

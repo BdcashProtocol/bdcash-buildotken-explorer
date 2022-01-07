@@ -7,6 +7,7 @@
               <div style="padding: 50px 20px;">
                 <h1 class="title is-1">Chain Devs Platform</h1>
                 <h2 class="subtitle">
+                  <img src="img/logo.png" class="img-responsive img-fluid">
                   <br />Enter with ID BDCash Extension or create a <a href="https://web.bdcashprotocol.com" target="_blank">new account here</a>.
                   <br />
                   <br />

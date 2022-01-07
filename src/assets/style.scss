@@ -36,6 +36,9 @@ $link-focus-border: $primary;
 @import "~bulma";
 @import "~buefy/src/scss/buefy";
 
+body{
+background: #e4bc4d;   
+}
 body, html, .button{
     font-family: "Sen"!important;
 }
